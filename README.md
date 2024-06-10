@@ -7,7 +7,7 @@ Backend Developer
 Hey! I've been immersed in coding for a long time now. Precisely since 2018. I'm currently a Computer Engineering Student at DUOC UC.
 
 * 🌍  I live in Santiago, Chile
-* 🧠 As of right now I'm working on several projects with frameworks like Django makins RESTFUL APIs with it or some micoservices with Flask.
+* 🧠 As of right now I'm working on several projects with frameworks like Django making RESTFUL APIs with it and some microservices with Flask.
 
 ### Skills
 
