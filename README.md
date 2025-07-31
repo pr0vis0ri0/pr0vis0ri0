@@ -6,8 +6,8 @@ Backend Developer
 
 Hey! I've been immersed in coding for a long time now. Precisely since 2018. I'm currently a Computer Engineering Student at DUOC UC.
 
-* 🌍  I live in Santiago, Chile
-* 🧠 As of right now I'm just working with Discord Bots using Discord.js along with Node.js
+* 🌍 I live in Santiago, Chile
+* 🧠 For the past couple of months, I've been working on process automation using Python, which has helped improve the performance of several administrative tasks. Additionally, I've been developing Django web applications.
 
 ### Skills
 
